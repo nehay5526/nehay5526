@@ -1,4 +1,4 @@
-### Hi there 👋
+### Software Engineer | Extensive Experience with Java, Spring Boot, AWS | In-Depth Knowledge of Data Structures, Algorithms, and Mathematics | Expert in MySQL and Microservices | Driving Technical Excellence and Innovation 
 
 <!--
 **nehay5526/nehay5526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
